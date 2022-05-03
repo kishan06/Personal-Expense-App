@@ -7,5 +7,6 @@ This app is useful for tracking all your expenses. Expenses for the last 7 days 
 
 ## Some Screenshots
 
-![Home Screen ](https://www.dropbox.com/s/ixlillwsyatsk5p/Screenshot_1.png?dl=0)
+![Home Screen](https://user-images.githubusercontent.com/47714049/166437214-0a5a308a-2010-4a6b-8e6e-a3f2f646a5c2.png)
+
 
